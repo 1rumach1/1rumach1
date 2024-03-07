@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1rumach1
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning JS and PHP
 - 💞️ I’m looking to collaborate on learnig PHP
 - 📫 How to reach me ?
 - 😄 Pronouns: He

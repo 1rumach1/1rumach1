@@ -7,7 +7,7 @@
 ### 💻 About Me
 
 I’m a **PHP Developer** who enjoys bringing ideas to life through clean, functional, and efficient code.  
-Currently, I’m diving deeper into **JavaScript** and **PHP frameworks** — particularly **CodeIgniter** — while continuously improving my craft.
+Currently, I’m diving deeper into **JavaScript** and **PHP frameworks** — particularly **Laravel** — while continuously improving my craft.
 
 I love exploring new technologies, learning from others, and pushing myself to grow one project at a time.  
 💼 I’m also **open to working with small businesses**, helping them build or improve their systems — sometimes just to **code some time away** and gain new experiences.
@@ -59,3 +59,4 @@ I’m passionate about **continuous learning**, exploring **open source**, and c
 ---
 
 > ⚡ *"Code. Learn. Improve. Repeat."*
+>  psst if you just want someone to talk to im also open just give me a chat XD
